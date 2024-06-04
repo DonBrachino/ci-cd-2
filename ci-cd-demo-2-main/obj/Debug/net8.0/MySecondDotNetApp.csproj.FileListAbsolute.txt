@@ -1,0 +1,14 @@
+C:\Users\BRACHOT\MySecondDotNetApp\bin\Debug\net8.0\MySecondDotNetApp.exe
+C:\Users\BRACHOT\MySecondDotNetApp\bin\Debug\net8.0\MySecondDotNetApp.deps.json
+C:\Users\BRACHOT\MySecondDotNetApp\bin\Debug\net8.0\MySecondDotNetApp.runtimeconfig.json
+C:\Users\BRACHOT\MySecondDotNetApp\bin\Debug\net8.0\MySecondDotNetApp.dll
+C:\Users\BRACHOT\MySecondDotNetApp\bin\Debug\net8.0\MySecondDotNetApp.pdb
+C:\Users\BRACHOT\MySecondDotNetApp\obj\Debug\net8.0\MySecondDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRACHOT\MySecondDotNetApp\obj\Debug\net8.0\MySecondDotNetApp.AssemblyInfoInputs.cache
+C:\Users\BRACHOT\MySecondDotNetApp\obj\Debug\net8.0\MySecondDotNetApp.AssemblyInfo.cs
+C:\Users\BRACHOT\MySecondDotNetApp\obj\Debug\net8.0\MySecondDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\BRACHOT\MySecondDotNetApp\obj\Debug\net8.0\MySecondDotNetApp.dll
+C:\Users\BRACHOT\MySecondDotNetApp\obj\Debug\net8.0\refint\MySecondDotNetApp.dll
+C:\Users\BRACHOT\MySecondDotNetApp\obj\Debug\net8.0\MySecondDotNetApp.pdb
+C:\Users\BRACHOT\MySecondDotNetApp\obj\Debug\net8.0\MySecondDotNetApp.genruntimeconfig.cache
+C:\Users\BRACHOT\MySecondDotNetApp\obj\Debug\net8.0\ref\MySecondDotNetApp.dll
